@@ -27,136 +27,132 @@
         /// the contents of this method with the code editor.
         /// </summary>
         private void InitializeComponent()
-        { 
-            
-            this.button1 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
-            this.button3 = new System.Windows.Forms.Button();
-            this.button4 = new System.Windows.Forms.Button();
-            this.button5 = new System.Windows.Forms.Button();
-            this.button6 = new System.Windows.Forms.Button();
-            this.panel1 = new System.Windows.Forms.Panel();
-            this.pictureBox2 = new System.Windows.Forms.PictureBox();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.panel1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
-            this.SuspendLayout();
+        {
+            button1 = new Button();
+            button2 = new Button();
+            button3 = new Button();
+            button4 = new Button();
+            button5 = new Button();
+            button6 = new Button();
+            panel1 = new Panel();
+            pictureBox1 = new PictureBox();
+            pictureBox2 = new PictureBox();
+            panel1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox2).BeginInit();
+            SuspendLayout();
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(0, 0);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(196, 100);
-            this.button1.TabIndex = 0;
-            this.button1.Text = "Control";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            button1.Location = new Point(0, 0);
+            button1.Name = "button1";
+            button1.Size = new Size(172, 94);
+            button1.TabIndex = 0;
+            button1.Text = "Control";
+            button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(193, 0);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(188, 100);
-            this.button2.TabIndex = 1;
-            this.button2.Text = "Gestión";
-            this.button2.UseVisualStyleBackColor = true;
-            this.button2.Click += new System.EventHandler(this.button2_Click);
+            button2.Location = new Point(169, 0);
+            button2.Name = "button2";
+            button2.Size = new Size(164, 94);
+            button2.TabIndex = 1;
+            button2.Text = "Gestión";
+            button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click;
             // 
             // button3
             // 
-            this.button3.BackColor = System.Drawing.Color.Transparent;
-            this.button3.FlatAppearance.BorderSize = 0;
-            this.button3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button3.Location = new System.Drawing.Point(583, 35);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(155, 30);
-            this.button3.TabIndex = 3;
-            this.button3.Text = "Usuario";
-            this.button3.UseVisualStyleBackColor = false;
-            this.button3.Click += new System.EventHandler(this.button3_Click);
+            button3.BackColor = Color.Transparent;
+            button3.FlatAppearance.BorderSize = 0;
+            button3.FlatStyle = FlatStyle.Flat;
+            button3.Location = new Point(510, 33);
+            button3.Name = "button3";
+            button3.Size = new Size(136, 28);
+            button3.TabIndex = 3;
+            button3.Text = "Usuario";
+            button3.UseVisualStyleBackColor = false;
+            button3.Click += button3_Click;
             // 
             // button4
             // 
-            this.button4.Location = new System.Drawing.Point(3, 82);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(196, 126);
-            this.button4.TabIndex = 4;
-            this.button4.Text = "Alta";
-            this.button4.UseVisualStyleBackColor = true;
+            button4.Location = new Point(3, 77);
+            button4.Name = "button4";
+            button4.Size = new Size(172, 118);
+            button4.TabIndex = 4;
+            button4.Text = "Alta";
+            button4.UseVisualStyleBackColor = true;
             // 
             // button5
             // 
-            this.button5.Location = new System.Drawing.Point(3, 203);
-            this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(196, 126);
-            this.button5.TabIndex = 5;
-            this.button5.Text = "Baja";
-            this.button5.UseVisualStyleBackColor = true;
-            this.button5.Click += new System.EventHandler(this.button5_Click);
+            button5.Location = new Point(3, 190);
+            button5.Name = "button5";
+            button5.Size = new Size(172, 118);
+            button5.TabIndex = 5;
+            button5.Text = "Baja";
+            button5.UseVisualStyleBackColor = true;
+            button5.Click += button5_Click;
             // 
             // button6
             // 
-            this.button6.Location = new System.Drawing.Point(3, 328);
-            this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(196, 126);
-            this.button6.TabIndex = 6;
-            this.button6.Text = "Modificaciones";
-            this.button6.UseVisualStyleBackColor = true;
-            this.button6.Click += new System.EventHandler(this.button6_Click);
+            button6.Location = new Point(3, 308);
+            button6.Name = "button6";
+            button6.Size = new Size(172, 118);
+            button6.TabIndex = 6;
+            button6.Text = "Modificaciones";
+            button6.UseVisualStyleBackColor = true;
+            button6.Click += button6_Click;
             // 
             // panel1
             // 
-            this.panel1.Controls.Add(this.button1);
-            this.panel1.Controls.Add(this.button2);
-            this.panel1.Controls.Add(this.pictureBox1);
-            this.panel1.Controls.Add(this.button3);
-            this.panel1.ForeColor = System.Drawing.Color.Black;
-            this.panel1.Location = new System.Drawing.Point(3, 0);
-            this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(798, 100);
-            this.panel1.TabIndex = 7;
-            // 
-            // pictureBox2
-            // 
-            //this.pictureBox2.Image = global::registro_de_asitencia.Properties.Resources.huella;
-            this.pictureBox2.Location = new System.Drawing.Point(348, 146);
-            this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(322, 275);
-            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox2.TabIndex = 8;
-            this.pictureBox2.TabStop = false;
+            panel1.Controls.Add(button1);
+            panel1.Controls.Add(button2);
+            panel1.Controls.Add(pictureBox1);
+            panel1.Controls.Add(button3);
+            panel1.ForeColor = Color.Black;
+            panel1.Location = new Point(3, 0);
+            panel1.Name = "panel1";
+            panel1.Size = new Size(698, 94);
+            panel1.TabIndex = 7;
             // 
             // pictureBox1
             // 
-            //this.pictureBox1.Image = global::registro_de_asitencia.Properties.Resources.vecteezy_user_icon_on_transparent_background_198791861;
-            this.pictureBox1.Location = new System.Drawing.Point(700, 0);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(98, 100);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox1.TabIndex = 2;
-            this.pictureBox1.TabStop = false;
+            pictureBox1.Location = new Point(612, 0);
+            pictureBox1.Name = "pictureBox1";
+            pictureBox1.Size = new Size(86, 94);
+            pictureBox1.SizeMode = PictureBoxSizeMode.Zoom;
+            pictureBox1.TabIndex = 2;
+            pictureBox1.TabStop = false;
             // 
-            // pantalla_gestión
+            // pictureBox2
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.pictureBox2);
-            this.Controls.Add(this.panel1);
-            this.Controls.Add(this.button6);
-            this.Controls.Add(this.button5);
-            this.Controls.Add(this.button4);
-            this.Name = "pantalla_gestión";
-            this.Text = "pantalla_gestión";
-            this.Load += new System.EventHandler(this.pantalla_gestión_Load);
-            this.panel1.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
-            this.ResumeLayout(false);
-
+            pictureBox2.Location = new Point(181, 100);
+            pictureBox2.Name = "pictureBox2";
+            pictureBox2.Size = new Size(507, 310);
+            pictureBox2.SizeMode = PictureBoxSizeMode.Zoom;
+            pictureBox2.TabIndex = 8;
+            pictureBox2.TabStop = false;
+            // 
+            // pantalla_gestion
+            // 
+            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleMode = AutoScaleMode.Font;
+            ClientSize = new Size(700, 422);
+            Controls.Add(pictureBox2);
+            Controls.Add(panel1);
+            Controls.Add(button6);
+            Controls.Add(button5);
+            Controls.Add(button4);
+            Name = "pantalla_gestion";
+            Text = "pantalla_gestión";
+            Load += pantalla_gestión_Load;
+            panel1.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox2).EndInit();
+            ResumeLayout(false);
         }
-            #endregion
+        #endregion
 
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button button2;
