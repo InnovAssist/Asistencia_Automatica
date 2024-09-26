@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pc\\Documents\\GitHub\\Asistencia_Automatica\\Asistencia_Automatica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54570127-5145-458A-9BF2-49B930143BFA}|Asistencia_Automatica.csproj|c:\\users\\pc\\documents\\github\\asistencia_automatica\\asistencia_automatica\\menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54570127-5145-458A-9BF2-49B930143BFA}|Asistencia_Automatica.csproj|solutionrelative:menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54570127-5145-458A-9BF2-49B930143BFA}|Asistencia_Automatica.csproj|c:\\users\\pc\\documents\\github\\asistencia_automatica\\asistencia_automatica\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{54570127-5145-458A-9BF2-49B930143BFA}|Asistencia_Automatica.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54570127-5145-458A-9BF2-49B930143BFA}|Asistencia_Automatica.csproj|c:\\users\\pc\\documents\\github\\asistencia_automatica\\asistencia_automatica\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{54570127-5145-458A-9BF2-49B930143BFA}|Asistencia_Automatica.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54570127-5145-458A-9BF2-49B930143BFA}|Asistencia_Automatica.csproj|c:\\users\\pc\\documents\\github\\asistencia_automatica\\asistencia_automatica\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54570127-5145-458A-9BF2-49B930143BFA}|Asistencia_Automatica.csproj|solutionrelative:login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54570127-5145-458A-9BF2-49B930143BFA}|Asistencia_Automatica.csproj|c:\\users\\pc\\documents\\github\\asistencia_automatica\\asistencia_automatica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54570127-5145-458A-9BF2-49B930143BFA}|Asistencia_Automatica.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 149,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Pc\\Documents\\GitHub\\Asistencia_Automatica\\Asistencia_Automatica\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\Pc\\Documents\\GitHub\\Asistencia_Automatica\\Asistencia_Automatica\\Login.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Login.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T11:47:21.22Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "menu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Documents\\GitHub\\Asistencia_Automatica\\Asistencia_Automatica\\menu.Designer.cs",
+              "RelativeDocumentMoniker": "menu.Designer.cs",
+              "ToolTip": "C:\\Users\\Pc\\Documents\\GitHub\\Asistencia_Automatica\\Asistencia_Automatica\\menu.Designer.cs",
+              "RelativeToolTip": "menu.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T11:47:03.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "menu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Pc\\Documents\\GitHub\\Asistencia_Automatica\\Asistencia_Automatica\\menu.cs",
+              "RelativeDocumentMoniker": "menu.cs",
+              "ToolTip": "C:\\Users\\Pc\\Documents\\GitHub\\Asistencia_Automatica\\Asistencia_Automatica\\menu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "menu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T11:46:56.248Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Documents\\GitHub\\Asistencia_Automatica\\Asistencia_Automatica\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Pc\\Documents\\GitHub\\Asistencia_Automatica\\Asistencia_Automatica\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T11:46:26.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Documents\\GitHub\\Asistencia_Automatica\\Asistencia_Automatica\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "Login.Designer.cs",
+              "ToolTip": "C:\\Users\\Pc\\Documents\\GitHub\\Asistencia_Automatica\\Asistencia_Automatica\\Login.Designer.cs",
+              "RelativeToolTip": "Login.Designer.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T11:34:15.255Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 222,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
