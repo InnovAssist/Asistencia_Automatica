@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pc\\Documents\\GitHub\\Asistencia_Automatica\\Asistencia_Automatica\\Asistencia_Automatica.csproj": {}
+    "C:\\Users\\Martin\\Documents\\GitHub\\Asistencia_Automatica\\Asistencia_Automatica\\Asistencia_Automatica.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pc\\Documents\\GitHub\\Asistencia_Automatica\\Asistencia_Automatica\\Asistencia_Automatica.csproj": {
+    "C:\\Users\\Martin\\Documents\\GitHub\\Asistencia_Automatica\\Asistencia_Automatica\\Asistencia_Automatica.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pc\\Documents\\GitHub\\Asistencia_Automatica\\Asistencia_Automatica\\Asistencia_Automatica.csproj",
+        "projectUniqueName": "C:\\Users\\Martin\\Documents\\GitHub\\Asistencia_Automatica\\Asistencia_Automatica\\Asistencia_Automatica.csproj",
         "projectName": "Asistencia_Automatica",
-        "projectPath": "C:\\Users\\Pc\\Documents\\GitHub\\Asistencia_Automatica\\Asistencia_Automatica\\Asistencia_Automatica.csproj",
-        "packagesPath": "C:\\Users\\Pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pc\\Documents\\GitHub\\Asistencia_Automatica\\Asistencia_Automatica\\obj\\",
+        "projectPath": "C:\\Users\\Martin\\Documents\\GitHub\\Asistencia_Automatica\\Asistencia_Automatica\\Asistencia_Automatica.csproj",
+        "packagesPath": "C:\\Users\\Martin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Martin\\Documents\\GitHub\\Asistencia_Automatica\\Asistencia_Automatica\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Martin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
