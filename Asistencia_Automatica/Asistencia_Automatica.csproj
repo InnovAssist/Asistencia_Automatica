@@ -1,11 +1,41 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <OutputType>WinExe</OutputType>
+    <OutputType>Exe</OutputType>
     <TargetFramework>net8.0-windows</TargetFramework>
     <Nullable>enable</Nullable>
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="DPFPCtlXTypeLibNET">
+      <HintPath>Dependencias\DPFPCtlXTypeLibNET.dll</HintPath>
+    </Reference>
+    <Reference Include="DPFPCtlXWrapperNET">
+      <HintPath>Dependencias\DPFPCtlXWrapperNET.dll</HintPath>
+    </Reference>
+    <Reference Include="DPFPDevNET">
+      <HintPath>Dependencias\DPFPDevNET.dll</HintPath>
+    </Reference>
+    <Reference Include="DPFPEngNET">
+      <HintPath>Dependencias\DPFPEngNET.dll</HintPath>
+    </Reference>
+    <Reference Include="DPFPGuiNET">
+      <HintPath>Dependencias\DPFPGuiNET.dll</HintPath>
+    </Reference>
+    <Reference Include="DPFPShrNET">
+      <HintPath>Dependencias\DPFPShrNET.dll</HintPath>
+    </Reference>
+    <Reference Include="DPFPShrXTypeLibNET">
+      <HintPath>Dependencias\DPFPShrXTypeLibNET.dll</HintPath>
+    </Reference>
+    <Reference Include="DPFPVerNET">
+      <HintPath>Dependencias\DPFPVerNET.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data">
+      <HintPath>Dependencias\MySql.Data.8.4.0\lib\net48\MySql.Data.dll</HintPath>
+    </Reference>
+  </ItemGroup>
 
 </Project>

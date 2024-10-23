@@ -20,3 +20,16 @@ C:\Users\Pc\Documents\GitHub\Asistencia_Automatica\Asistencia_Automatica\obj\Deb
 C:\Users\Pc\Documents\GitHub\Asistencia_Automatica\Asistencia_Automatica\obj\Debug\net8.0-windows\Asistencia_Automatica.sourcelink.json
 C:\Users\Pc\Documents\GitHub\Asistencia_Automatica\Asistencia_Automatica\obj\Debug\net8.0-windows\Asistencia_Automatica.Menu.resources
 C:\Users\Pc\Documents\GitHub\Asistencia_Automatica\Asistencia_Automatica\obj\Debug\net8.0-windows\Asistencia_Automatica.pantalla_gestion.resources
+C:\Users\Pc\Documents\GitHub\Asistencia_Automatica\Asistencia_Automatica\obj\Debug\net8.0-windows\Asistencia_Automatica.csproj.AssemblyReference.cache
+C:\Users\Pc\Documents\GitHub\Asistencia_Automatica\Asistencia_Automatica\obj\Debug\net8.0-windows\Asistencia_Automatica.VerificationForm.resources
+C:\Users\Pc\Documents\GitHub\Asistencia_Automatica\Asistencia_Automatica\bin\Debug\net8.0-windows\DPFPCtlXTypeLibNET.dll
+C:\Users\Pc\Documents\GitHub\Asistencia_Automatica\Asistencia_Automatica\bin\Debug\net8.0-windows\DPFPCtlXWrapperNET.dll
+C:\Users\Pc\Documents\GitHub\Asistencia_Automatica\Asistencia_Automatica\bin\Debug\net8.0-windows\DPFPDevNET.dll
+C:\Users\Pc\Documents\GitHub\Asistencia_Automatica\Asistencia_Automatica\bin\Debug\net8.0-windows\DPFPEngNET.dll
+C:\Users\Pc\Documents\GitHub\Asistencia_Automatica\Asistencia_Automatica\bin\Debug\net8.0-windows\DPFPGuiNET.dll
+C:\Users\Pc\Documents\GitHub\Asistencia_Automatica\Asistencia_Automatica\bin\Debug\net8.0-windows\DPFPShrNET.dll
+C:\Users\Pc\Documents\GitHub\Asistencia_Automatica\Asistencia_Automatica\bin\Debug\net8.0-windows\DPFPShrXTypeLibNET.dll
+C:\Users\Pc\Documents\GitHub\Asistencia_Automatica\Asistencia_Automatica\bin\Debug\net8.0-windows\DPFPVerNET.dll
+C:\Users\Pc\Documents\GitHub\Asistencia_Automatica\Asistencia_Automatica\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\Pc\Documents\GitHub\Asistencia_Automatica\Asistencia_Automatica\bin\Debug\net8.0-windows\MySql.Data.xml
+C:\Users\Pc\Documents\GitHub\Asistencia_Automatica\Asistencia_Automatica\obj\Debug\net8.0-windows\Asistenc.411C9BD8.Up2Date
