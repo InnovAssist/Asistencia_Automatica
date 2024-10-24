@@ -24,6 +24,7 @@ namespace AsistenciaAt
             this.Size = new System.Drawing.Size(800, 500); // Establecer tamaño (ancho x alto)
             this.FormBorderStyle = FormBorderStyle.FixedDialog;
             this.MaximizeBox = false;  // Deshabilitar botón maximizar
+            
         }
 
 
@@ -58,6 +59,11 @@ namespace AsistenciaAt
         private void pictureBox1_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void textBox2_TextChanged(object sender, EventArgs e)
+        {
+            
         }
     }
 }
