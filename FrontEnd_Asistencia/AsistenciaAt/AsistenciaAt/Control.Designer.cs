@@ -63,6 +63,7 @@
             this.Controls.Add(this.tableLayoutPanel1);
             this.Name = "Control";
             this.Text = "Control";
+            this.Load += new System.EventHandler(this.Control_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

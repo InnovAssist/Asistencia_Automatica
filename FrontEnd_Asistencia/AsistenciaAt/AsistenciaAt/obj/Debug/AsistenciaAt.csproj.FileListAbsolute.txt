@@ -10,3 +10,4 @@ C:\Users\Martin\Documents\GitHub\Asistencia_Automatica\FrontEnd_Asistencia\Asist
 C:\Users\Martin\Documents\GitHub\Asistencia_Automatica\FrontEnd_Asistencia\AsistenciaAt\AsistenciaAt\obj\Debug\AsistenciaAt.pdb
 C:\Users\Martin\Documents\GitHub\Asistencia_Automatica\FrontEnd_Asistencia\AsistenciaAt\AsistenciaAt\obj\Debug\AsistenciaAt.Inicio.resources
 C:\Users\Martin\Documents\GitHub\Asistencia_Automatica\FrontEnd_Asistencia\AsistenciaAt\AsistenciaAt\obj\Debug\AsistenciaAt.Control.resources
+C:\Users\Martin\Documents\GitHub\Asistencia_Automatica\FrontEnd_Asistencia\AsistenciaAt\AsistenciaAt\obj\Debug\AsistenciaAt.Gestion.resources

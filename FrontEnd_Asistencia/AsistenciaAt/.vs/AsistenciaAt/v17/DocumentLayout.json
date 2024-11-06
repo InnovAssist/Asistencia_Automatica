@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Martin\\Documents\\GitHub\\Asistencia_Automatica\\FrontEnd_Asistencia\\AsistenciaAt\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1F6EA99F-F229-4B50-9B49-8E9727AF97FC}|AsistenciaAt\\AsistenciaAt.csproj|C:\\Users\\Martin\\Documents\\GitHub\\Asistencia_Automatica\\FrontEnd_Asistencia\\AsistenciaAt\\asistenciaat\\control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1F6EA99F-F229-4B50-9B49-8E9727AF97FC}|AsistenciaAt\\AsistenciaAt.csproj|solutionrelative:asistenciaat\\control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{1F6EA99F-F229-4B50-9B49-8E9727AF97FC}|AsistenciaAt\\AsistenciaAt.csproj|C:\\Users\\Martin\\Documents\\GitHub\\Asistencia_Automatica\\FrontEnd_Asistencia\\AsistenciaAt\\asistenciaat\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F6EA99F-F229-4B50-9B49-8E9727AF97FC}|AsistenciaAt\\AsistenciaAt.csproj|solutionrelative:asistenciaat\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F6EA99F-F229-4B50-9B49-8E9727AF97FC}|AsistenciaAt\\AsistenciaAt.csproj|C:\\Users\\Martin\\Documents\\GitHub\\Asistencia_Automatica\\FrontEnd_Asistencia\\AsistenciaAt\\asistenciaat\\control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F6EA99F-F229-4B50-9B49-8E9727AF97FC}|AsistenciaAt\\AsistenciaAt.csproj|solutionrelative:asistenciaat\\control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F6EA99F-F229-4B50-9B49-8E9727AF97FC}|AsistenciaAt\\AsistenciaAt.csproj|c:\\users\\martin\\documents\\github\\asistencia_automatica\\frontend_asistencia\\asistenciaat\\asistenciaat\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F6EA99F-F229-4B50-9B49-8E9727AF97FC}|AsistenciaAt\\AsistenciaAt.csproj|solutionrelative:asistenciaat\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F6EA99F-F229-4B50-9B49-8E9727AF97FC}|AsistenciaAt\\AsistenciaAt.csproj|C:\\Users\\Martin\\Documents\\GitHub\\Asistencia_Automatica\\FrontEnd_Asistencia\\AsistenciaAt\\asistenciaat\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1F6EA99F-F229-4B50-9B49-8E9727AF97FC}|AsistenciaAt\\AsistenciaAt.csproj|c:\\users\\martin\\documents\\github\\asistencia_automatica\\frontend_asistencia\\asistenciaat\\asistenciaat\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1F6EA99F-F229-4B50-9B49-8E9727AF97FC}|AsistenciaAt\\AsistenciaAt.csproj|solutionrelative:asistenciaat\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F6EA99F-F229-4B50-9B49-8E9727AF97FC}|AsistenciaAt\\AsistenciaAt.csproj|C:\\Users\\Martin\\Documents\\GitHub\\Asistencia_Automatica\\FrontEnd_Asistencia\\AsistenciaAt\\asistenciaat\\gestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F6EA99F-F229-4B50-9B49-8E9727AF97FC}|AsistenciaAt\\AsistenciaAt.csproj|solutionrelative:asistenciaat\\gestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F6EA99F-F229-4B50-9B49-8E9727AF97FC}|AsistenciaAt\\AsistenciaAt.csproj|C:\\Users\\Martin\\Documents\\GitHub\\Asistencia_Automatica\\FrontEnd_Asistencia\\AsistenciaAt\\asistenciaat\\inicio.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F6EA99F-F229-4B50-9B49-8E9727AF97FC}|AsistenciaAt\\AsistenciaAt.csproj|solutionrelative:asistenciaat\\inicio.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F6EA99F-F229-4B50-9B49-8E9727AF97FC}|AsistenciaAt\\AsistenciaAt.csproj|C:\\Users\\Martin\\Documents\\GitHub\\Asistencia_Automatica\\FrontEnd_Asistencia\\AsistenciaAt\\asistenciaat\\gestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F6EA99F-F229-4B50-9B49-8E9727AF97FC}|AsistenciaAt\\AsistenciaAt.csproj|solutionrelative:asistenciaat\\gestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1F6EA99F-F229-4B50-9B49-8E9727AF97FC}|AsistenciaAt\\AsistenciaAt.csproj|C:\\Users\\Martin\\Documents\\GitHub\\Asistencia_Automatica\\FrontEnd_Asistencia\\AsistenciaAt\\asistenciaat\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,20 +31,12 @@
       "RelativeMoniker": "D:0:0:{1F6EA99F-F229-4B50-9B49-8E9727AF97FC}|AsistenciaAt\\AsistenciaAt.csproj|solutionrelative:asistenciaat\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F6EA99F-F229-4B50-9B49-8E9727AF97FC}|AsistenciaAt\\AsistenciaAt.csproj|C:\\Users\\Martin\\Documents\\GitHub\\Asistencia_Automatica\\FrontEnd_Asistencia\\AsistenciaAt\\asistenciaat\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1F6EA99F-F229-4B50-9B49-8E9727AF97FC}|AsistenciaAt\\AsistenciaAt.csproj|solutionrelative:asistenciaat\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F6EA99F-F229-4B50-9B49-8E9727AF97FC}|AsistenciaAt\\AsistenciaAt.csproj|c:\\users\\martin\\documents\\github\\asistencia_automatica\\frontend_asistencia\\asistenciaat\\asistenciaat\\control.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F6EA99F-F229-4B50-9B49-8E9727AF97FC}|AsistenciaAt\\AsistenciaAt.csproj|solutionrelative:asistenciaat\\control.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F6EA99F-F229-4B50-9B49-8E9727AF97FC}|AsistenciaAt\\AsistenciaAt.csproj|C:\\Users\\Martin\\Documents\\GitHub\\Asistencia_Automatica\\FrontEnd_Asistencia\\AsistenciaAt\\asistenciaat\\inicio.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F6EA99F-F229-4B50-9B49-8E9727AF97FC}|AsistenciaAt\\AsistenciaAt.csproj|solutionrelative:asistenciaat\\inicio.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1F6EA99F-F229-4B50-9B49-8E9727AF97FC}|AsistenciaAt\\AsistenciaAt.csproj|C:\\Users\\Martin\\Documents\\GitHub\\Asistencia_Automatica\\FrontEnd_Asistencia\\AsistenciaAt\\asistenciaat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F6EA99F-F229-4B50-9B49-8E9727AF97FC}|AsistenciaAt\\AsistenciaAt.csproj|solutionrelative:asistenciaat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F6EA99F-F229-4B50-9B49-8E9727AF97FC}|AsistenciaAt\\AsistenciaAt.csproj|C:\\Users\\Martin\\Documents\\GitHub\\Asistencia_Automatica\\FrontEnd_Asistencia\\AsistenciaAt\\asistenciaat\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F6EA99F-F229-4B50-9B49-8E9727AF97FC}|AsistenciaAt\\AsistenciaAt.csproj|solutionrelative:asistenciaat\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,25 +46,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\Martin\\Documents\\GitHub\\Asistencia_Automatica\\FrontEnd_Asistencia\\AsistenciaAt\\AsistenciaAt\\Login.cs",
-              "RelativeDocumentMoniker": "AsistenciaAt\\Login.cs",
-              "ToolTip": "C:\\Users\\Martin\\Documents\\GitHub\\Asistencia_Automatica\\FrontEnd_Asistencia\\AsistenciaAt\\AsistenciaAt\\Login.cs",
-              "RelativeToolTip": "AsistenciaAt\\Login.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T21:46:23.641Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Martin\\Documents\\GitHub\\Asistencia_Automatica\\FrontEnd_Asistencia\\AsistenciaAt\\AsistenciaAt\\Program.cs",
               "RelativeDocumentMoniker": "AsistenciaAt\\Program.cs",
@@ -82,71 +64,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Control.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Martin\\Documents\\GitHub\\Asistencia_Automatica\\FrontEnd_Asistencia\\AsistenciaAt\\AsistenciaAt\\Control.Designer.cs",
-              "RelativeDocumentMoniker": "AsistenciaAt\\Control.Designer.cs",
-              "ToolTip": "C:\\Users\\Martin\\Documents\\GitHub\\Asistencia_Automatica\\FrontEnd_Asistencia\\AsistenciaAt\\AsistenciaAt\\Control.Designer.cs",
-              "RelativeToolTip": "AsistenciaAt\\Control.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T20:30:49.649Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Control.cs",
-              "DocumentMoniker": "C:\\Users\\Martin\\Documents\\GitHub\\Asistencia_Automatica\\FrontEnd_Asistencia\\AsistenciaAt\\AsistenciaAt\\Control.cs",
-              "RelativeDocumentMoniker": "AsistenciaAt\\Control.cs",
-              "ToolTip": "C:\\Users\\Martin\\Documents\\GitHub\\Asistencia_Automatica\\FrontEnd_Asistencia\\AsistenciaAt\\AsistenciaAt\\Control.cs",
-              "RelativeToolTip": "AsistenciaAt\\Control.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAswBoAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T00:05:58.207Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Control.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Martin\\Documents\\GitHub\\Asistencia_Automatica\\FrontEnd_Asistencia\\AsistenciaAt\\AsistenciaAt\\Control.cs",
-              "RelativeDocumentMoniker": "AsistenciaAt\\Control.cs",
-              "ToolTip": "C:\\Users\\Martin\\Documents\\GitHub\\Asistencia_Automatica\\FrontEnd_Asistencia\\AsistenciaAt\\AsistenciaAt\\Control.cs [Dise\u00F1o]",
-              "RelativeToolTip": "AsistenciaAt\\Control.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T00:05:51.053Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Inicio.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Martin\\Documents\\GitHub\\Asistencia_Automatica\\FrontEnd_Asistencia\\AsistenciaAt\\AsistenciaAt\\Inicio.Designer.cs",
-              "RelativeDocumentMoniker": "AsistenciaAt\\Inicio.Designer.cs",
-              "ToolTip": "C:\\Users\\Martin\\Documents\\GitHub\\Asistencia_Automatica\\FrontEnd_Asistencia\\AsistenciaAt\\AsistenciaAt\\Inicio.Designer.cs",
-              "RelativeToolTip": "AsistenciaAt\\Inicio.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAAAAAAAAAAAAA==",
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Martin\\Documents\\GitHub\\Asistencia_Automatica\\FrontEnd_Asistencia\\AsistenciaAt\\AsistenciaAt\\Login.cs",
+              "RelativeDocumentMoniker": "AsistenciaAt\\Login.cs",
+              "ToolTip": "C:\\Users\\Martin\\Documents\\GitHub\\Asistencia_Automatica\\FrontEnd_Asistencia\\AsistenciaAt\\AsistenciaAt\\Login.cs",
+              "RelativeToolTip": "AsistenciaAt\\Login.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAWwEwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T22:25:04.567Z",
+              "WhenOpened": "2024-10-23T21:46:23.641Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Login.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Martin\\Documents\\GitHub\\Asistencia_Automatica\\FrontEnd_Asistencia\\AsistenciaAt\\AsistenciaAt\\Login.Designer.cs",
               "RelativeDocumentMoniker": "AsistenciaAt\\Login.Designer.cs",
               "ToolTip": "C:\\Users\\Martin\\Documents\\GitHub\\Asistencia_Automatica\\FrontEnd_Asistencia\\AsistenciaAt\\AsistenciaAt\\Login.Designer.cs",
               "RelativeToolTip": "AsistenciaAt\\Login.Designer.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAowDwAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-23T22:01:08.47Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Login.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Martin\\Documents\\GitHub\\Asistencia_Automatica\\FrontEnd_Asistencia\\AsistenciaAt\\AsistenciaAt\\Login.cs",
               "RelativeDocumentMoniker": "AsistenciaAt\\Login.cs",
@@ -154,24 +100,40 @@
               "RelativeToolTip": "AsistenciaAt\\Login.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-23T21:45:55.101Z",
+              "IsPinned": true,
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Inicio.cs",
               "DocumentMoniker": "C:\\Users\\Martin\\Documents\\GitHub\\Asistencia_Automatica\\FrontEnd_Asistencia\\AsistenciaAt\\AsistenciaAt\\Inicio.cs",
               "RelativeDocumentMoniker": "AsistenciaAt\\Inicio.cs",
               "ToolTip": "C:\\Users\\Martin\\Documents\\GitHub\\Asistencia_Automatica\\FrontEnd_Asistencia\\AsistenciaAt\\AsistenciaAt\\Inicio.cs",
               "RelativeToolTip": "AsistenciaAt\\Inicio.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAswB8AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-23T21:56:12.329Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
+              "Title": "Inicio.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Martin\\Documents\\GitHub\\Asistencia_Automatica\\FrontEnd_Asistencia\\AsistenciaAt\\AsistenciaAt\\Inicio.Designer.cs",
+              "RelativeDocumentMoniker": "AsistenciaAt\\Inicio.Designer.cs",
+              "ToolTip": "C:\\Users\\Martin\\Documents\\GitHub\\Asistencia_Automatica\\FrontEnd_Asistencia\\AsistenciaAt\\AsistenciaAt\\Inicio.Designer.cs",
+              "RelativeToolTip": "AsistenciaAt\\Inicio.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T22:25:04.567Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Inicio.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Martin\\Documents\\GitHub\\Asistencia_Automatica\\FrontEnd_Asistencia\\AsistenciaAt\\AsistenciaAt\\Inicio.cs",
               "RelativeDocumentMoniker": "AsistenciaAt\\Inicio.cs",
@@ -179,6 +141,34 @@
               "RelativeToolTip": "AsistenciaAt\\Inicio.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-23T21:55:51.191Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Gestion.cs",
+              "DocumentMoniker": "C:\\Users\\Martin\\Documents\\GitHub\\Asistencia_Automatica\\FrontEnd_Asistencia\\AsistenciaAt\\AsistenciaAt\\Gestion.cs",
+              "RelativeDocumentMoniker": "AsistenciaAt\\Gestion.cs",
+              "ToolTip": "C:\\Users\\Martin\\Documents\\GitHub\\Asistencia_Automatica\\FrontEnd_Asistencia\\AsistenciaAt\\AsistenciaAt\\Gestion.cs",
+              "RelativeToolTip": "AsistenciaAt\\Gestion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T20:29:38.301Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Gestion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Martin\\Documents\\GitHub\\Asistencia_Automatica\\FrontEnd_Asistencia\\AsistenciaAt\\AsistenciaAt\\Gestion.cs",
+              "RelativeDocumentMoniker": "AsistenciaAt\\Gestion.cs",
+              "ToolTip": "C:\\Users\\Martin\\Documents\\GitHub\\Asistencia_Automatica\\FrontEnd_Asistencia\\AsistenciaAt\\AsistenciaAt\\Gestion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AsistenciaAt\\Gestion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T20:28:28.818Z",
+              "IsPinned": true,
               "EditorCaption": " [Dise\u00F1o]"
             }
           ]
