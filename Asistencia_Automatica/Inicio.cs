@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Asistencia_Automatica
 {
-    public partial class Control : Form
+    public partial class Inicio : Form
     {
-        public Control()
+        public Inicio()
         {
             InitializeComponent();
             this.Text = ("Franz Rojobauer");
@@ -22,41 +22,26 @@ namespace Asistencia_Automatica
             this.MaximizeBox = false;  // Deshabilitar botón maximizar
         }
 
-        private void tableLayoutPanel1_Paint(object sender, PaintEventArgs e)
+        private void Inicio_Load(object sender, EventArgs e)
         {
 
         }
 
-        private void Control_Load(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Control nuevaVentana = new Control();
+            nuevaVentana.Show();  // Mostrar Form2
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
         {
 
         }
 
-        private void textBox4_TextChanged(object sender, EventArgs e)
+        private void button2_Click(object sender, EventArgs e)
         {
-
-        }
-
-        private void toolTip1_Popup(object sender, PopupEventArgs e)
-        {
-
-        }
-
-        private void label4_Click(object sender, EventArgs e)
-        {
-
-        }
-
-
-        private void label4_MouseHover(object sender, EventArgs e)
-        {
-
-            toolTip1.SetToolTip(label4, "Ingresar el DNI");
-        }
-
-        private void panel1_Paint(object sender, PaintEventArgs e)
-        {
-
+            Gestion nuevaVentana = new Gestion();
+            nuevaVentana.Show();  // Mostrar Form2
         }
     }
 }

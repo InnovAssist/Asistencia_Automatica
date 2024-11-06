@@ -11,6 +11,7 @@
         /// Limpiar los recursos que se estén usando.
         /// </summary>
         /// <param name="disposing">true si los recursos administrados se deben desechar; false en caso contrario.</param>
+        /// 
         protected override void Dispose(bool disposing)
         {
             if (disposing && (components != null))
@@ -56,7 +57,7 @@
             // pictureBox1
             // 
             this.pictureBox1.ErrorImage = null;
-            //this.pictureBox1.Image = global::Asistencia_Automatica.Properties.Resources.vecteezy_user_icon_on_transparent_background_198791861;
+            //this.pictureBox1.Image = global::registro_de_asitencia.Properties.Resources.vecteezy_user_icon_on_transparent_background_198791861;
             this.pictureBox1.Location = new System.Drawing.Point(108, 92);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(246, 222);
